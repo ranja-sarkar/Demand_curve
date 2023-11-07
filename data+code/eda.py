@@ -1,13 +1,15 @@
-
+#Import Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 #import statsmodels.api as sm
 
+#Load Dataset
 df = pd.read_csv('Sales-Superstore.csv')
 #df.info()
 
+#EDA
 df['Category'].value_counts().plot(kind = 'bar', label = 'Category', color = 'green')
 plt.legend()
 
@@ -123,6 +125,7 @@ plt.xlabel('Log(Quantity)')
 plt.ylabel('Log(PPU)')
 plt.title('California')
 plt.show()
+#-------------------------
 
 #Simple Moving Average for forecasting
 #Rolling statistics of monthly sales over 6 months
@@ -158,5 +161,6 @@ plt.show()
 #plt.ylabel('Monthly Sales')
 #plt.title('Exponentially-weighted Average of Sales')
 #plt.show(block = False)
+
 
 
