@@ -6,3 +6,5 @@ A superstore sales data typically shows the price per unit (SKU) - PPU, volume o
 The data can eventually be utilized to forecast (daily/weekly) sales as well as optimize revenue or margin (profit) wrt the price of product. This exercise is the price optimization or pricing problem wherein one maximizes either revenue or margin while optimizing the price.
 <img width="227" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/9c591eea-1b8a-4859-ab67-7250ed081a67">
 
+One can use seaborn's Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve.
+
