@@ -8,5 +8,5 @@ The data can eventually be utilized to forecast (daily/weekly) sales/volume as w
 
 <img width="227" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/9c591eea-1b8a-4859-ab67-7250ed081a67">
 
-One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization. 
+One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization, where price elasticity is the change in product quantity demanded or aupplied with unit change in price of the product. 
 
