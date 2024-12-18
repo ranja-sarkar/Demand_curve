@@ -19,13 +19,23 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
 
+**Stan** is package for Bayesian Inference and pystan is a python interface to it.
+
+https://mc-stan.org/users/interfaces/pystan
+Repo: https://github.com/stan-dev/pystan
+
+
+Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regression.html
+
 **Bayesian (multilevel) hierarchical modeling:** https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling
 
 **About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
 
+**Pyro** (python & pytorch) is a package for (deep) probabilistic programming/modeling.
+
 **Bayesian Hierarchical Linear Regression with pyro:** https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html
 
-**About pyro** - python & pytorch for probabilistic programming/modeling: https://github.com/pyro-ppl/pyro
+**About pyro**: https://github.com/pyro-ppl/pyro
 
 <img width="628" alt="11" src="https://github.com/user-attachments/assets/23756f4e-a607-4680-8870-abee88ee67fa" />
 
