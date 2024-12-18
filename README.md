@@ -10,7 +10,7 @@ The data can eventually be utilized to forecast (daily/weekly) sales/volume as w
 
 One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization, where price elasticity is the change in product quantity demanded or aupplied with unit change in price of the product. 
 
-**PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
+▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
 
 Repo: https://github.com/pymc-devs/pymc
 
@@ -26,7 +26,7 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
 
-**Stan** is package for Bayesian Inference and **pystan** is a python interface to it.
+▶️ **Stan** is package for Bayesian Inference and **pystan** is a python interface to it.
 
 https://mc-stan.org/users/interfaces/pystan
 
@@ -44,7 +44,7 @@ Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regressio
 
 **About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
 
-**Pyro** (python & pytorch) is a package for (deep) probabilistic programming/modeling.
+▶️ **Pyro** (python & pytorch) is a package for (deep) probabilistic programming/modeling.
 
 **Bayesian Hierarchical Linear Regression with pyro:** https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html
 
