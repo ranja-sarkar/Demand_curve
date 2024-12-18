@@ -1,10 +1,10 @@
 # Retail Data
 
-The retail sales data of a store typically shows the price per unit - PPU, volume of sales, and profit earned across stores in cities of states (region/country). One can investigate the **demand curve** (price & quantity relationship) of a product across states. Demand curves can be used either for an individual consumer or for all consumers in a particular market (market demand curve).
+The **retail sales data of a store** typically shows the price per unit - PPU, volume of sales, and profit earned across stores in cities of states (region/country). One can investigate the **demand curve** (price & quantity relationship) of a product across states. Demand curves can be used either for an individual consumer or for all consumers in a particular market (market demand curve).
 
 <img width="359" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/97913eca-24db-4065-a946-81d3b651767f">
 
-The retail data is utilized to forecast (daily/weekly) sales or volume as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
+The retail or ecommerce data is utilized to forecast (daily/weekly) sales or volume as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
 
 <img width="227" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/9c591eea-1b8a-4859-ab67-7250ed081a67">
 
@@ -13,6 +13,10 @@ One can use Linear Model plot (multiple relationships) or Regression plot (singl
 **Interpreting price elasticity**
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
+
+Follow the notebook for a **demonstration of price elasticity**: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Price_elasticity.ipynb
+
+For a demo of **dynamic pricing** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
 
 
 ▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
