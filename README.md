@@ -26,10 +26,13 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
 
-**Stan** is package for Bayesian Inference and pystan is a python interface to it.
+**Stan** is package for Bayesian Inference and **pystan** is a python interface to it.
 
 https://mc-stan.org/users/interfaces/pystan
+
 Repo: https://github.com/stan-dev/pystan
+
+<img width="548" alt="33" src="https://github.com/user-attachments/assets/7b03ef9a-b542-4321-b301-3059f52494c2" />
 
 
 Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regression.html
