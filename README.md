@@ -10,3 +10,7 @@ The data can eventually be utilized to forecast (daily/weekly) sales/volume as w
 
 One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization, where price elasticity is the change in product quantity demanded or aupplied with unit change in price of the product. 
 
+**Bayesian GLM (Linear Regression) in PyMC:** https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html
+
+**Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
+
