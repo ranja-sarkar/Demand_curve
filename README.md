@@ -23,5 +23,9 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
 
+**Bayesian Hierarchical Linear Regression with pyro:** https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html
+
+**About pyro** - python & pytorch for probabilistic programming/modeling: https://github.com/pyro-ppl/pyro
+
 
 
