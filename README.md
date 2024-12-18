@@ -10,6 +10,13 @@ The data can eventually be utilized to forecast (daily/weekly) sales/volume as w
 
 One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization, where price elasticity is the change in product quantity demanded or aupplied with unit change in price of the product. 
 
+**PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
+
+Repo: https://github.com/pymc-devs/pymc
+
+<img width="461" alt="22" src="https://github.com/user-attachments/assets/753cbfa0-d337-42d1-b41a-78fc7a575f4c" />
+
+
 **Bayesian GLM (Linear Regression) in PyMC:** https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html
 
 The following Nature paper (2020) details about Bayesian Modeling. It outlines WAMBS - 'When to Worry and how to Avoid the Misuse of Bayesian Statistics' while discussing prior distribution types that can be fed into the model, variable selection methods, MCMC & non-MCMC based sampling to arrive at posterior distributions, and commonly used Bayesian software (open-source) programs. 
