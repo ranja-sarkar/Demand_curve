@@ -27,5 +27,6 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **About pyro** - python & pytorch for probabilistic programming/modeling: https://github.com/pyro-ppl/pyro
 
+<img width="628" alt="11" src="https://github.com/user-attachments/assets/23756f4e-a607-4680-8870-abee88ee67fa" />
 
 
