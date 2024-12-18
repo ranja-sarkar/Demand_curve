@@ -12,6 +12,11 @@ One can use Linear Model plot (multiple relationships) or Regression plot (singl
 
 **Bayesian GLM (Linear Regression) in PyMC:** https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html
 
+The following Nature paper (2020) details about Bayesian Modeling. It outlines WAMBS - 'When to Worry and how to Avoid the Misuse of Bayesian Statistics' while discussing prior distribution types that can be fed into the model, variable selection methods, MCMC & non-MCMC based sampling to arrive at posterior distributions, and commonly used Bayesian software (open-source) programs. 
+
+https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pdf
+
+
 **Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
 
 **Bayesian (multilevel) hierarchical modeling:** https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling
