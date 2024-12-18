@@ -16,7 +16,7 @@ One can use Linear Model plot (multiple relationships) or Regression plot (singl
 
 Follow the notebook for a **demonstration of price elasticity**: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Price_elasticity.ipynb
 
-For a demo of **dynamic pricing** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
+For a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
 
 
 ▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
