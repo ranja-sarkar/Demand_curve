@@ -37,6 +37,9 @@ Repo: https://github.com/stan-dev/pystan
 
 Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regression.html
 
+**How Bayesian Inference works**: https://www.youtube.com/watch?v=5NMxiOGL39M&t=1s
+
+
 **Bayesian (multilevel) hierarchical modeling:** https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling
 
 **About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
