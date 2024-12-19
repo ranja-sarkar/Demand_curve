@@ -29,6 +29,9 @@ Repo: https://github.com/pymc-devs/pymc
 
 **Bayesian GLM (Linear Regression) in PyMC:** https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html
 
+For a simple demo of **Bayesian linear model** with univariate dataset:https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Bayesian.ipynb
+
+
 **The following Nature paper (2020) details about Bayesian Modeling.** It outlines WAMBS - 'When to Worry and how to Avoid the Misuse of Bayesian Statistics' while discussing prior distribution types that can be fed into the model, variable selection methods, MCMC & non-MCMC based sampling to arrive at posterior distributions, and commonly used Bayesian software (open-source) programs. 
 
 https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pdf
