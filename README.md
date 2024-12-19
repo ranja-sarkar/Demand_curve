@@ -6,9 +6,10 @@ The **retail sales data of a store** typically shows the price per unit - PPU, v
 
 The retail or ecommerce data is utilized to forecast (daily/weekly) sales or volume as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
 
-<img width="227" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/9c591eea-1b8a-4859-ab67-7250ed081a67">
+<img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
-One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve. However, a **linear regression model hardly works for price elasticity** and optimization. **Price elasticity** is the change in product quantity demanded or aupplied with unit change in price of the product. 
+
+One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve using the seaborn python library. However, a **linear regression model hardly works for estimating price elasticity** and optimizing price due to the presence of several influential factors, and sometimes they are inter-dependent. **Price elasticity** is determined from the demand curve and is defined as the **change in quantity** (of product/item demanded/supplied) with **unit change in price** of the product.  
 
 **Interpreting price elasticity**
 
