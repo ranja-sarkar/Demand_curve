@@ -36,6 +36,7 @@ For a simple demo of **Bayesian linear model** with single regressor dataset: ht
 
 https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pdf
 
+**Pooled and hierarchical models using PyMC2:** https://people.duke.edu/~ccc14/sta-663/PyMC2.html
 
 **Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
 
