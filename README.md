@@ -12,7 +12,9 @@ The retail or ecommerce data is utilized to forecast (daily/weekly) sales or vol
 <img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
 
-One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve using the seaborn python library. However, a **linear regression model hardly works for estimating price elasticity** and optimizing price due to the presence of several influential factors, and sometimes they are inter-dependent. **Price elasticity** is determined from the demand curve and is defined as the **change in quantity** (of product/item demanded/supplied) with **unit change in price** of the product.  
+One can use Linear Model plot (multiple relationships) or Regression plot (single relationship) depending on the use-case to create the demand curve using the seaborn python library. However, a **linear regression model hardly works for estimating price elasticity** and optimizing price due to the presence of several influential factors, and sometimes they're inter-dependent. 
+
+**Price elasticity** is determined from the demand curve and is defined as the **change in quantity** of product with **unit change in price** of the product.  
 
 **Interpreting price elasticity**
 
