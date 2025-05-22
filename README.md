@@ -1,11 +1,12 @@
 # Retail Data
 
-The **retail sales data of a store** typically shows the price per unit - PPU, volume of sales, and profit earned across stores in cities of states (region/country). One can investigate the **demand curve** (price & quantity relationship) of a product across states. In econometrics, a log-log model is a regression model where both the dependent and independent variables are transformed using (natural) logarithms. This transformation allows for interpretation of coefficients as elasticities, representing the percentage change in the dependent variable for a 1% change in the independent variable. 
+The **retail sales data of a store** typically shows the price per unit - PPU, volume/quantity of sales, and profit earned across stores in cities of states. One can investigate the **demand curve** (price & quantity relationship) of a product/SKU across the states. 
 
+<img width="360" alt="mm" src="https://github.com/user-attachments/assets/cc369342-a953-47d2-81b3-baf1eba46291" />
 
 Demand curves can be used either for an individual consumer or for all consumers in a particular market (market demand curve).
 
-<img width="359" alt="image" src="https://github.com/ranja-sarkar/SuperStoreSales/assets/101544669/97913eca-24db-4065-a946-81d3b651767f">
+In econometrics, a log-log model is a regression model where both the dependent and independent variables are transformed using (natural) logarithms. This transformation allows for interpretation of coefficients as elasticities, representing the percentage change in the dependent variable for a 1% change in the independent variable. 
 
 The retail or ecommerce data is utilized to forecast (daily/weekly) sales or volume as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
 
