@@ -22,9 +22,9 @@ One can use linear model (lm) plot (multiple relationships) or regression plot (
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
-Follow the notebook for a **demonstration of price elasticity**: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Price_elasticity.ipynb
+Follow the notebook for a demo of **price elasticity**: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Price_elasticity.ipynb
 
-For a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
+Follow the notebook for a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
 
 -------
 
