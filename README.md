@@ -6,9 +6,10 @@ The **retail sales data of a store** typically shows the price per unit - PPU, v
 
 Demand curves can be used either for an individual consumer or for all consumers in a particular market (market demand curve).
 
+The retail or ecommerce data is utilized to forecast volume (daily/weekly) of sales as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc.
+
 In econometrics, a log-log model is a regression model where both the dependent and independent variables are transformed using (natural) logarithms. This transformation allows for interpretation of coefficients as elasticities, representing the percentage change in the dependent variable for a 1% change in the independent variable. 
 
-The retail or ecommerce data is utilized to forecast (daily/weekly) sales or volume as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
 
 <img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
