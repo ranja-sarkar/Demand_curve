@@ -24,6 +24,8 @@ Follow the notebook for a **demonstration of price elasticity**: https://github.
 
 For a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
 
+-------
+
 
 ▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
 
@@ -51,6 +53,7 @@ https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pd
 
 **Spike and Slab model with pymc**: https://docs.liesel-project.org/en/v0.3.0/tutorials/md/06-pymc.html
 
+------
 
 ▶️ **Stan** is package for Bayesian Inference and **pystan** is a python interface to it.
 
@@ -69,6 +72,9 @@ Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regressio
 **Bayesian (multilevel) hierarchical modeling:** https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling
 
 **About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
+
+-----
+
 
 ▶️ **Pyro** (python & pytorch) is a package for (deep) probabilistic programming/modeling.
 
