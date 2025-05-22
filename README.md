@@ -1,4 +1,4 @@
-# Retail Data
+# Product price and sales volume
 
 The **retail sales data of a store** typically shows the price per unit - PPU, volume/quantity of sales, and profit earned across stores in cities of states. One can investigate the **demand curve** (price & quantity relationship) of a product/SKU across the states. 
 
@@ -14,7 +14,9 @@ In econometrics, a log-log model is a regression model where both the dependent 
 <img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
 
-One can use linear model (lm) plot (multiple relationships) or regression plot (single relationship) depending on the use-case to visualize the demand curve. However, a linear regression model hardly works for estimating price elasticity and optimizing price, due to the presence of several influential factors, and sometimes they're inter-dependent. 
+One can use linear model (lm) plot (multiple relationships) or regression plot (single relationship) depending on the use-case to visualize the demand curve. However, a linear regression model hardly works for estimating price elasticity and optimizing price, due to the presence of several influential factors and their inter-dependence. 
+
+-----
 
 **Price elasticity** is determined from the demand curve and is defined as the **change in quantity** or demand of product with **unit change in price** of the product.  
 
