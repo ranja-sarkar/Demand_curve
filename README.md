@@ -1,4 +1,4 @@
-# Product price and sales volume
+# Price and sales volume
 
 The **retail sales data of a store** typically shows the price per unit - PPU, volume/quantity of sales, and profit earned across stores in cities of states. One can investigate the **demand curve** (price & quantity relationship) of a product/SKU across the states. 
 
@@ -20,7 +20,7 @@ One can use linear model (lm) plot (multiple relationships) or regression plot (
 
 **Price elasticity** is determined from the demand curve and is defined as the **change in quantity** or demand of product with **unit change in price** of the product.  
 
-**Interpreting price elasticity**
+**Interpreting price elasticity :-**
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
