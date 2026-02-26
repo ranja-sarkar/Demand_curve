@@ -47,11 +47,22 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
 
 ▶️ [Pyro](https://github.com/pyro-ppl/pyro) is a programming package for (deep) probabilistic modeling with python and pytorch.
 
-**Bayesian Hierarchical Linear Regression with pyro:** https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html
-
-
 <img width="628" alt="11" src="https://github.com/user-attachments/assets/23756f4e-a607-4680-8870-abee88ee67fa" />
 
+# References
+
+1. [Bayesian Hierarchical Linear Regression with pyro](https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html)
+
+2. [Hierarchical modeling with stan](https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling)
+
+3. [Regression modeling wuth stan](https://mc-stan.org/docs/stan-users-guide/regression.html)
+
+4. [Using pymc2](https://people.duke.edu/~ccc14/sta-663/PyMC2.html)
+
+5. [Spike and slab with pymc](https://docs.liesel-project.org/en/v0.3.0/tutorials/md/06-pymc.html)
+
+6. [Gibbs sampling in spike and slab](https://github.com/AsaCooperStickland/Spike_And_Slab)
+   
 # Marketing
 
 
