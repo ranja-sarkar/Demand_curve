@@ -1,4 +1,4 @@
-# Price and sales volume
+# Pricing
 
 The **retail sales data of a store** typically shows the price per unit - PPU, volume/quantity of sales, and profit earned across stores in cities of states. One can investigate the **demand curve** (price & quantity relationship) of a product/SKU across the states. 
 
@@ -85,5 +85,7 @@ Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regressio
 **About pyro**: https://github.com/pyro-ppl/pyro
 
 <img width="628" alt="11" src="https://github.com/user-attachments/assets/23756f4e-a607-4680-8870-abee88ee67fa" />
+
+# Marketing
 
 
