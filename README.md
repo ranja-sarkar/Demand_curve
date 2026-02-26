@@ -99,5 +99,5 @@ Causal learning and methods for causal inference
 
 2. [Python library for causal inference](https://github.com/py-why/dowhy)
 
-3. 
+3. [Data Science for Economics](https://datascience.stanford.edu/research/research-areas/data-science-economics)
 
