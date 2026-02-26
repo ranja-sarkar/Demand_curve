@@ -14,9 +14,9 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 
 -----
 
-**Price elasticity** is determined from the demand curve and is defined as the **change in quantity** or demand of product with **unit change in price** of the product.  
+**Price elasticity** is determined from the demand curve. It is defined as the change in quantity (demand) of product with unit change in price of the product.  
 
-**Interpreting price elasticity :-**
+**Interpreting price elasticity**
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
