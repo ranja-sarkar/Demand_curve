@@ -45,11 +45,10 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
 -----
 
 
-▶️ **Pyro** (python & pytorch) is a package for (deep) probabilistic programming/modeling.
+▶️ [Pyro](https://github.com/pyro-ppl/pyro) is a programming package for (deep) probabilistic modeling with python and pytorch.
 
 **Bayesian Hierarchical Linear Regression with pyro:** https://num.pyro.ai/en/stable/tutorials/bayesian_hierarchical_linear_regression.html
 
-**About pyro**: https://github.com/pyro-ppl/pyro
 
 <img width="628" alt="11" src="https://github.com/user-attachments/assets/23756f4e-a607-4680-8870-abee88ee67fa" />
 
