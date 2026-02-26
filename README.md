@@ -20,9 +20,9 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
+# Python libraries
 
-
-▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
+▶️ [PyMC](https://www.pymc.io/) is a probabilistic programming library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods.
 
 Repo: https://github.com/pymc-devs/pymc
 
