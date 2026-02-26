@@ -71,4 +71,16 @@ Assessing the difference between statistical significance and practical signific
 
 There are far more intricacies in understanding whether a certain marketing strategy is meaningful in enhancing the buying behavior of consumers than what a statistical test reveals. Practical significance considers whether the difference between two actions (effect size) is large enough to be meaningful and relevant in a real-world context.
 
+---
+
 The measurement of the business impact a marketing strategy generates in the long-term when compared to no effort taken becomes complex as the effect might get diluted over time. Drawing causal inference is therefore hard in the long-term. Allocating advertising budget and estimating its impact on business in the long-term requires modeling and optimization. 
+
+The measure is the difference between the effect generated in the customers stimulated with marketing gimmick (test group) and those not stimulated (control group). The effect has binary outcomes (Y) - 1 when the customer receives the stimulus (factual) and 0 when the customer does not recieve the stimulus (counterfactual). The stimulus is a treatment. This is called measuring causal effect.
+
+<img width="293" height="89" alt="ce" src="https://github.com/user-attachments/assets/6eac43ea-7322-4903-8182-930a3d2aab57" />
+
+
+
+
+
+
