@@ -21,10 +21,6 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
 
-Follow the notebook for a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
-
--------
-
 
 ▶️ **PyMC** is a probabilistic programming python library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods: https://www.pymc.io/
 
