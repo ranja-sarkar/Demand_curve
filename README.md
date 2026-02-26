@@ -65,7 +65,10 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
    
 # Marketing
 
-It is essential to measure the impact of marketing efforts to understand to what extent the sensitive segment of customers are retained and by sensitive I mean, the ones who help generate the company's most revenue. 
+It is essential to measure the impact of marketing efforts to understand to what extent a sensitive segment of customers are retained and by sensitive I mean, the ones who help generate the company's most revenue. 
 
-Assessing the difference between statistical significance and practical significance is important while making effective business decisions, particularly in marketing. There are far more intricacies in understanding whether a certain marketing strategy is meaningful in enhancing the purchasing/buying behavior of consumers than what a statistical test reveals. Practical significance considers whether the difference between two actions (effect size) is large enough to be meaningful and relevant in a real-world context.
+Assessing the difference between statistical significance and practical significance is important while making effective business decisions, particularly in marketing. 
 
+There are far more intricacies in understanding whether a certain marketing strategy is meaningful in enhancing the buying behavior of consumers than what a statistical test reveals. Practical significance considers whether the difference between two actions (effect size) is large enough to be meaningful and relevant in a real-world context.
+
+The measurement of the business impact a marketing strategy generates in the long-term when compared to no effort taken becomes complex as the effect might get diluted over time. Drawing causal inference is therefore hard in the long-term. Allocating advertising budget and estimating its impact on business in the long-term requires modeling and optimization. 
