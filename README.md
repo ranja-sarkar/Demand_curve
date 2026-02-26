@@ -37,17 +37,7 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
 
 ---
 
-**Pooled and hierarchical models using PyMC2:** https://people.duke.edu/~ccc14/sta-663/PyMC2.html
-
-**Gibbs sampling to get sample from posterior with 'spike and slab' or Gaussian priors:** https://github.com/AsaCooperStickland/Spike_And_Slab
-
-**Spike and Slab model with pymc**: https://docs.liesel-project.org/en/v0.3.0/tutorials/md/06-pymc.html
-
-------
-
-▶️ **Stan** is package for Bayesian Inference and **pystan** is a python interface to it.
-
-https://mc-stan.org/users/interfaces/pystan
+▶️ **Stan** is a package for Bayesian Inference and [pystan](https://mc-stan.org/users/interfaces/pystan) is a python interface to it.
 
 Repo: https://github.com/stan-dev/pystan
 
