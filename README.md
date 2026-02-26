@@ -16,7 +16,7 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 
 **Price elasticity** is determined from the demand curve. It is defined as the change in quantity (demand) of product with unit change in price of the product.  
 
-**Interpreting [price elasticity](https://github.com/ranja-sarkar/Demand_curve/blob/2b47fd744ea460c895c949ea4ea9d69c0002fb9f/notebooks/Price_elasticity.ipynb)**:
+**Interpreting [price elasticity](https://github.com/ranja-sarkar/Demand_curve/blob/2b47fd744ea460c895c949ea4ea9d69c0002fb9f/notebooks/Price_elasticity.ipynb)** ⬇️
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
@@ -87,7 +87,7 @@ For example, if past (buying) frequency were the only confounder, the solution w
 
 Unlike machine learning (predictive) models where there’s a target and the robustness of predictions are validated against test data, there’s no ground truth or target in causal models. So validation of causal models is the bottleneck. We can never observe both potential outcomes, we can only observe the one that actually occurs in causal models.
 
-Causal learning & methods for causal inference:
+**Causal learning & methods for causal inference** ⬇️
 
 <img width="329" height="58" alt="infer" src="https://github.com/user-attachments/assets/337138fe-88ec-4f94-8052-1ca45439f7eb" />
 
