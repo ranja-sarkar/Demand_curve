@@ -87,9 +87,11 @@ For example, if past (buying) frequency were the only confounder, the solution w
 
 Unlike machine learning (predictive) models where there’s a target and the robustness of predictions are validated against test data, there’s no ground truth or target in causal models. So validation of causal models is the bottleneck. We can never observe both potential outcomes, we can only observe the one that actually occurs in causal models.
 
-Causal learning
+Causal learning and methods for causal inference
+
 <img width="329" height="58" alt="infer" src="https://github.com/user-attachments/assets/337138fe-88ec-4f94-8052-1ca45439f7eb" />
 
+<img width="361" height="250" alt="infer0" src="https://github.com/user-attachments/assets/04f4a7db-f12a-4abd-b88e-9943d50d5635" />
 
 # References
 
