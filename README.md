@@ -5,7 +5,7 @@ The retail or ecommerce data is utilized to forecast volume (daily/weekly) of sa
 
 ---
 
-In **econometrics**, a log-log model is a regression model where both the dependent and independent variables are transformed using logarithms. This transformation allows for interpretation of coefficients as elasticities, representing the percentage change in the dependent variable for a 1% change in the independent variable. 
+In **econometrics**, a log-log model is a regression model where both the dependent and independent variables are transformed using [logarithms](https://github.com/ranja-sarkar/Demand_curve/blob/684bb0e5986de176d93a967285202dd213c20091/logmodels.pdf). This transformation allows for interpretation of coefficients as elasticities, representing the percentage change in the dependent variable for a 1% change in the independent variable. 
 
 <img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
