@@ -31,9 +31,11 @@ Repo: https://github.com/pymc-devs/pymc
 
 Please [refer](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html) for a Bayesian generalized linear model (GLM) using pymc.
 
-**The following Nature paper (2020) details about Bayesian Modeling.** It outlines WAMBS - 'When to Worry and how to Avoid the Misuse of Bayesian Statistics' while discussing prior distribution types that can be fed into the model, variable selection methods, MCMC & non-MCMC based sampling to arrive at posterior distributions, and commonly used Bayesian software (open-source) programs. 
+---
 
-https://github.com/ranja-sarkar/stats/blob/main/papers/Springer%20Nature_2020.pdf
+The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.io/blob/bc92b06b81a180450295ec81e75927a704a7b283/_posts/assets/Springer%20Nature_2020.pdf) details about Bayesian Modeling. It outlines WAMBS - 'When to Worry and how to Avoid the Misuse of Bayesian Statistics', while discussing prior distribution types that can be fed into the model, variable selection methods, MCMC & non-MCMC based sampling to arrive at posterior distributions, and commonly used Bayesian software (opensource) programs. 
+
+---
 
 **Pooled and hierarchical models using PyMC2:** https://people.duke.edu/~ccc14/sta-663/PyMC2.html
 
