@@ -37,9 +37,7 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
 
 ---
 
-▶️ **Stan** is a package for Bayesian Inference and [pystan](https://mc-stan.org/users/interfaces/pystan) is a python interface to it.
-
-Repo: https://github.com/stan-dev/pystan
+▶️ [Stan](https://mc-stan.org/users/interfaces/pystan) is a package for Bayesian Inference and [pystan](https://github.com/stan-dev/pystan) is a python interface to it.
 
 <img width="548" alt="33" src="https://github.com/user-attachments/assets/7b03ef9a-b542-4321-b301-3059f52494c2" />
 
