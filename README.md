@@ -79,6 +79,8 @@ The measure is the difference between the effect generated in the customers stim
 
 <img width="293" height="89" alt="ce" src="https://github.com/user-attachments/assets/6eac43ea-7322-4903-8182-930a3d2aab57" />
 
+The test and control groups must be randomized for an unbiased measurement. Choosing the groups randomly ensures that all covariates before the stimulus are equal for the groups. This means there is no covariate that determines which group a customer belongs to. This experiment is called randomized controlled trial (RCT). 
+
 
 
 
