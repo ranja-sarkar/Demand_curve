@@ -1,4 +1,4 @@
-# Pricing
+<img width="329" height="58" alt="infer" src="https://github.com/user-attachments/assets/c252d7a3-669b-49cb-a6b4-da50f2c89b88" /># Pricing
 
 The retail sales data (offline) of a store typically shows the price per unit (PPU), volume/quantity of sales, and profit earned for a SKU/product across stores in cities (states). One can investigate the demand curve which is essentially the price & quantity relationship across the states. The same is true for online data that is, e-commerce.
 The retail or ecommerce data is utilized to forecast volume (daily/weekly) of sales as to optimize revenue or profit margin with respect to the price of product. This exercise is price optimization or the pricing problem, wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc..
@@ -83,6 +83,19 @@ The test and control groups must be randomized for an unbiased measurement. Choo
 
 For example, if past (buying) frequency were the only confounder, the solution would be simple as the test group would be compared with the control group that had the same past frequency. In reality, there are more than 1 possible covariates that explains the causal association of the stimulus/treatment with the outcome. 
 
+---
+
+Unlike machine learning (predictive) models where there’s a target and the robustness of predictions are validated against test data, there’s no ground truth or target in causal models. So validation of causal models is the bottleneck. We can never observe both potential outcomes, we can only observe the one that actually occurs in causal models.
+
+Causal learning
+<img width="329" height="58" alt="infer" src="https://github.com/user-attachments/assets/337138fe-88ec-4f94-8052-1ca45439f7eb" />
 
 
+# References
+
+1. [Causal inderence with MMM](https://developers.google.com/meridian/docs/causal-inference/about-mmm-causal-inference-methodology)
+
+2. [Python library for causal inference](https://github.com/py-why/dowhy)
+
+3. 
 
