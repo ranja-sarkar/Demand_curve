@@ -10,7 +10,7 @@ In **econometrics**, a log-log model is a regression model where both the depend
 <img width="323" alt="11" src="https://github.com/user-attachments/assets/8c85df63-83e9-4367-b52e-d088a9070af6" />
 
 
-One can use linear model (lm) plot (multiple relationships) or regression plot (single relationship) depending on the use-case to visualize the demand curve. However, a linear regression model hardly works for estimating price elasticity and optimizing price, due to the presence of several influential factors and their inter-dependence. 
+One can use linear model plot or regression plot depending on the use-case, to visualize the demand curve. However, a linear regression model hardly works for estimating price elasticity, due to the presence of several influential factors and their inter-dependence.  
 
 -----
 
