@@ -42,15 +42,6 @@ The [primer paper of 2020](https://github.com/ranja-sarkar/ranja-sarkar.github.i
 <img width="548" alt="33" src="https://github.com/user-attachments/assets/7b03ef9a-b542-4321-b301-3059f52494c2" />
 
 
-Regression models with stan: https://mc-stan.org/docs/stan-users-guide/regression.html
-
-**How Bayesian Inference works**: https://www.youtube.com/watch?v=5NMxiOGL39M&t=1s
-
-
-**Bayesian (multilevel) hierarchical modeling:** https://github.com/widdowquinn/Teaching-Stan-Hierarchical-Modelling
-
-**About unpooled, pooled, and partial-pooled models:** https://widdowquinn.github.io/Teaching-Stan-Hierarchical-Modelling/
-
 -----
 
 
