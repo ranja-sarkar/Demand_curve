@@ -22,15 +22,11 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 
 # Python libraries
 
-▶️ [PyMC](https://www.pymc.io/) is a probabilistic programming library to build Bayesian models and fit them using Markov chain Monte Carlo (MCMC) sampling methods.
+▶️ [PyMC](https://www.pymc.io/) is a probabilistic programming library to build [Bayesian](https://www.youtube.com/watch?v=5NMxiOGL39M) models for pricing, and fit them using Markov chain Monte Carlo (MCMC) sampling methods.
 
 Repo: https://github.com/pymc-devs/pymc
 
 <img width="461" alt="22" src="https://github.com/user-attachments/assets/753cbfa0-d337-42d1-b41a-78fc7a575f4c" />
-
-**How Bayes Theorem (Bayesian Inference) works?** 
-
-https://www.youtube.com/watch?v=5NMxiOGL39M
 
 
 **Bayesian GLM (Linear Regression) in PyMC:** https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html
