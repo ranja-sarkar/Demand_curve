@@ -1,8 +1,7 @@
 # Pricing
 
-The **retail sales data of a store** typically shows the price per unit - PPU, volume/quantity of sales, and profit earned across stores in cities of states. One can investigate the **demand curve** (price & quantity relationship) of a product/SKU across the states. 
+The retail sales data (offline) of a store typically shows the price per unit (PPU), volume/quantity of sales, and profit earned for a SKU/product across stores in cities (states). One can investigate the demand curve which is essentially the price & quantity relationship across the states. The same is true for online data that is, e-commerce.
 
-<img width="360" alt="mm" src="https://github.com/user-attachments/assets/cc369342-a953-47d2-81b3-baf1eba46291" />
 
 The retail or ecommerce data is utilized to forecast volume (daily/weekly) of sales as well as to optimize revenue or profit margin wrt the price of product. This exercise is price optimization (pricing problem) wherein one maximizes either revenue or margin while optimizing the price which is subject to various factors such as competition, customer behavior, etc.
 
