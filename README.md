@@ -81,7 +81,7 @@ The measure is the difference between the effect generated in the customers stim
 
 The test and control groups must be randomized for an unbiased measurement. Choosing the groups randomly ensures that all covariates before the stimulus are equal for the groups. This means there is no covariate that determines which group a customer belongs to. This experiment is called randomized controlled trial (RCT). 
 
-
+For example, if past (buying) frequency were the only confounder, the solution would be simple as the test group would be compared with the control group that had the same past frequency. In reality, there are more than 1 possible covariates that explains the causal association of the stimulus/treatment with the outcome. 
 
 
 
