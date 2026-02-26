@@ -16,11 +16,10 @@ One can use [linear model plot](https://seaborn.pydata.org/generated/seaborn.lmp
 
 **Price elasticity** is determined from the demand curve. It is defined as the change in quantity (demand) of product with unit change in price of the product.  
 
-**Interpreting price elasticity**
+**Interpreting [price elasticity](https://github.com/ranja-sarkar/Demand_curve/blob/2b47fd744ea460c895c949ea4ea9d69c0002fb9f/notebooks/Price_elasticity.ipynb)**
 
 <img width="265" alt="55" src="https://github.com/user-attachments/assets/f300bfa5-4521-4c49-8528-2024dc008edd" />
 
-Follow the notebook for a demo of **price elasticity**: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Price_elasticity.ipynb
 
 Follow the notebook for a demo of **dynamic pricing of SKU** to increase revenue: https://github.com/ranja-sarkar/Demand_curve/blob/main/notebooks/Dynamic_pricing.ipynb
 
